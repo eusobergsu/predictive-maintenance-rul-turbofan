@@ -1,5 +1,7 @@
 # Predictive Maintenance - RUL Prediction
 
+Notebook do projeto = https://colab.research.google.com/drive/1dYl7wJSgeF8VgmqSOfKwKxlCVoucYNYT?usp=sharing
+
 ## 1. Project Overview
 
 End-to-end predictive maintenance system using turbofan engine degradation data.
